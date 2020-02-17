@@ -2,8 +2,6 @@
 title: "Fast GPU-Enabled Color Normalization for Digital Pathology"
 collection: publications
 permalink: /publication/IWSSIP-19
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2019-06-05
 venue: '2019 International Conference on Systems, Signals and Image Processing (IWSSIP)'
 paperurl: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8787328'
 authors : "Deepak Anand*, Goutham Ramakrishnan*, Amit Sethi" 
