@@ -12,4 +12,4 @@ In Summer 2019, I was a Researcher Intern at [Microsoft Research-Cambridge(UK)](
 
 I completed my B.Tech in Electrical Engineering (with a minor in Computer Science) from the [Indian Institute of Technology-Bombay](https://www.iitb.ac.in/). For my final year project, I worked under Prof. [Amit Sethi](https://www.ee.iitb.ac.in/~asethi/) on fast and robust color normalization of large histopathological WSI's ([Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8787328)).
 
-In Summer 2020, I am excited to join the team at [Health[at]Scale](https://www.healthatscale.com/) as a Machine Learning Software Engineer. 
+In Summer 2020, I will be joining the team at [Health[at]Scale](https://www.healthatscale.com/) as a Machine Learning Software Engineer. 
