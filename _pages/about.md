@@ -1,9 +1,10 @@
 ---
-permalink: /about/
+permalink: /home/
 title: "Homepage"
 author_profile: true
 redirect_from: 
   - /
+  - /about/
   - /about.html
 ---
 I am a second year Masters student studying Computer Science at the [University of Wisconsin-Madison](https://www.cs.wisc.edu). My general research interests are in the domain of machine learning, where I have explored various areas including interpretable ML, adversarial ML, natural language processing and computer vision. At UW-Madison, I work as a Graduate Research Assistant under Prof. [Aws Albarghouthi](http://pages.cs.wisc.edu/~aws/). 
