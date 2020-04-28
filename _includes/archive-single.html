@@ -44,6 +44,8 @@
           <p>{{ post.venue }}</p>
         {% elsif post.collection == 'publications' %}
           <p>{{post.authors}}, <br> <i>{{ post.venue }}</i></p>
+        {% elsif post.collection == 'preprints' %}
+          <p>{{post.authors}}, <br> <i>{{ post.venue }}</i></p>
         {% elsif post.date %}
          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
         {% endif %}
@@ -60,6 +62,12 @@
     <p class="archive__item-excerpt" itemprop="description"><p><strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
     {% endif %}
     
+    {% if post.collection == 'preprints' and post.excerpt and site.read_more != 'enabled' %}
+    <p class="archive__item-excerpt" itemprop="description"></p>
+    {% elsif post.collection == 'preprints' and post.excerpt and site.read_more == 'enabled' %}
+    <p class="archive__item-excerpt" itemprop="description"><p><strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
+    {% endif %}
+
     {% if post.citation and post.paperurl %}
       <p>Recommended citation: {{ post.citation }} <a href="{{ post.paperurl }}"><u>{{ post.paperurl }}</u></a></p>
     {% elsif post.citation %}
