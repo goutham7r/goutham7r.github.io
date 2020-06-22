@@ -13,6 +13,6 @@ author_profile: true
 {% for post in site.preprints reversed %}
   {% include archive-single.html %}
 {% endfor %}  
-__  
-__  
+<br/>  
+<br/>  
 \* denotes Equal Contribution by authors
