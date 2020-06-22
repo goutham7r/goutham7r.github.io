@@ -17,6 +17,5 @@ author_profile: true
 {% endfor %}  
 
 <br/>  
-<br/>  
 
 \* denotes Equal Contribution by authors
