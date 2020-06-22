@@ -23,4 +23,4 @@ author_profile: true
 
 
 
-* denotes Equal Contribution by authors
+\* denotes Equal Contribution by authors
