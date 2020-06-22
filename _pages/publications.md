@@ -9,10 +9,14 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
+<br/>
+
 # Preprints
 {% for post in site.preprints reversed %}
   {% include archive-single.html %}
 {% endfor %}  
+
 <br/>  
 <br/>  
+
 \* denotes Equal Contribution by authors
