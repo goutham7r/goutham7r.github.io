@@ -65,7 +65,7 @@ ___
 </span>
 [arXiv](https://arxiv.org/abs/2006.06841){:target="_blank"}
 
-**Semantic robustness of models of source code**     
+**Semantic Robustness of Models of Source Code**     
 *Goutham Ramakrishnan\*, Jordan Henkel\*, Zi Wang, Aws Albarghouthi, Somesh Jha, Thomas Reps*  
 <span style="color:forestgreen">
     Jun 2020  
