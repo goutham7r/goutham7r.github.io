@@ -7,7 +7,10 @@ author_profile: true
 
 # Conference Publications
 
-### BAE: BERT-based Adversarial Examples for Text Classification <br><sup>Siddhant Garg*, Goutham Ramakrishnan*</sup> 
+<b><p style="font-size:30px">
+    BAE: BERT-based Adversarial Examples for Text Classification 
+</p></b>  
+Siddhant Garg\*, Goutham Ramakrishnan\*   
 <b> <span style="color:forestgreen">
     2020 Conference on Empirical Methods in Natural Language Processing (EMNLP 2020)
 </span> </b>  
