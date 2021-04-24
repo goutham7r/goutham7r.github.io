@@ -3,12 +3,15 @@ permalink: /
 title: "Homepage"
 author_profile: true
 redirect_from: 
-  - /about
 ---
-I am a second year Masters student studying Computer Science at the [University of Wisconsin-Madison](https://www.cs.wisc.edu). My general research interests are in the domain of machine learning, where I have explored various areas including interpretable ML, adversarial ML, natural language processing and computer vision. At UW-Madison, I work as a Graduate Research Assistant under Prof. [Aws Albarghouthi](http://pages.cs.wisc.edu/~aws/). 
+Hi! 
+I am a Machine Learning Software Engineer at [Health[at]Scale](https://healthatscale.com/).  
+
+My general research interests are in the domain of machine learning. 
+Over the years, I have explored various areas including interpretable ML, adversarial ML, natural language processing and computer vision, with a track record of publishing in top-tier venues such as AAAI and EMNLP. 
+My complete research works can be found [here](/research).
+
+In 2020, I completed my M.S. in Computer Sciences at the [University of Wisconsin-Madison](https://www.cs.wisc.edu). At UW-Madison, I worked as a Graduate Research Assistant under Prof. [Aws Albarghouthi](http://pages.cs.wisc.edu/~aws/). 
+Prior to that in 2018, I graduated with a B.Tech. in Electrical Engineering (with a minor in Computer Science) from the [Indian Institute of Technology-Bombay](https://www.iitb.ac.in/). For my final year project, I worked under Prof. [Amit Sethi](https://www.ee.iitb.ac.in/~asethi/) on fast and robust color normalization of large histopathological WSI's ([Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8787328)).
 
 In Summer 2019, I was a Researcher Intern at [Microsoft Research-Cambridge(UK)](https://www.microsoft.com/en-us/research/lab/microsoft-research-cambridge/) where I worked on improving data compliance in healthcare projects, under [Pashmina Cameron](https://www.microsoft.com/en-us/research/people/pacamero/). Earlier during my undergraduate years, I interned as a data analyst at American Express in Gurugram (India). 
-
-I completed my B.Tech in Electrical Engineering (with a minor in Computer Science) from the [Indian Institute of Technology-Bombay](https://www.iitb.ac.in/). For my final year project, I worked under Prof. [Amit Sethi](https://www.ee.iitb.ac.in/~asethi/) on fast and robust color normalization of large histopathological WSI's ([Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8787328)).
-
-In Summer 2020, I will be joining the team at [Health[at]Scale](https://www.healthatscale.com/) as a Machine Learning Software Engineer. 
