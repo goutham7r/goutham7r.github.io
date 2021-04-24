@@ -43,7 +43,7 @@ ___
 **Towards Robustness to Label Noise in Text Classification via Noise Modeling**     
 *Siddhant Garg\*, Goutham Ramakrishnan\*, Varun Thumbe\**  
 <span style="color:forestgreen">
-    <a href="https://sites.google.com/connect.hku.hk/robustml-2021/home">RobustML</a> and <a href="https://s2d-olad.github.io/">S2D-OLAD</a> Workshops at the Ninth International Conference on Learning Representations <b>(ICLR 2021)</b>  
+    RobustML and S2D-OLAD Workshops at the Ninth International Conference on Learning Representations <b>(ICLR 2021)</b>  
 </span>
 [arXiv](https://arxiv.org/abs/2101.11214){:target="_blank"}
 
