@@ -15,7 +15,7 @@ Siddhant Garg\*, Goutham Ramakrishnan\*
 [Paper](https://www.aclweb.org/anthology/2020.emnlp-main.498/)  [arXiv](https://arxiv.org/abs/2004.01970)
 
 ## Synthesizing Action Sequences for Modifying Model Decisions
-Goutham Ramakrishnan\*, Yun Chan Lee\*, Aws Albarghouthi
+Goutham Ramakrishnan\*, Yun Chan Lee\*, Aws Albarghouthi  
 <b> <span style="color:darkgreen">
     Thirty-Fourth AAAI Conference on Artificial Intelligence (AAAI 2020) 
 </span> </b> </br>
