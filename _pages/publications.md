@@ -58,14 +58,14 @@ ___
 </span>
 [arXiv](https://arxiv.org/abs/2011.07555){:target="_blank"}
 
-**Backdoors in Neural Models of Source Code**     
+**Backdoors in Neural Models of Source Code**\*\*       
 *Goutham Ramakrishnan, Aws Albarghouthi*  
 <span style="color:forestgreen">
     Jun 2020  
 </span>
 [arXiv](https://arxiv.org/abs/2006.06841){:target="_blank"}
 
-**Semantic Robustness of Models of Source Code**     
+**Semantic Robustness of Models of Source Code**\*\*      
 *Goutham Ramakrishnan\*, Jordan Henkel\*, Zi Wang, Aws Albarghouthi, Somesh Jha, Thomas Reps*  
 <span style="color:forestgreen">
     Jun 2020  
@@ -80,4 +80,4 @@ ___
 [arXiv](https://arxiv.org/abs/2005.04316){:target="_blank"}
 
 
-\* denotes Equal Contribution by authors
+\*Equal Contribution by Authors &nbsp; &nbsp; &nbsp; \*\*Work under submission 
