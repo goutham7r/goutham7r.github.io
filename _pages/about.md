@@ -16,4 +16,4 @@ Prior to that in 2018, I graduated with a B.Tech. in Electrical Engineering (wit
 
 In Summer 2019, I was a Researcher Intern at [Microsoft Research-Cambridge(UK)](https://www.microsoft.com/en-us/research/lab/microsoft-research-cambridge/){:target="_blank"}, where I worked on improving data compliance in healthcare projects. Earlier during my undergraduate years, I interned as a data analyst at American Express in Gurugram (India). 
 
-You can find my resume [here]("/files/Goutham-Ramakrishnan-Resume.pdf"){:target="_blank"}. 
+You can find my resume [here](/files/Goutham-Ramakrishnan-Resume.pdf){:target="_blank"}. 
