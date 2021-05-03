@@ -4,7 +4,6 @@ permalink: /research/
 author_profile: true
 ---
 ## Conference Proceedings
-___
 
 **BAE: BERT-based Adversarial Examples for Text Classification**     
 *Siddhant Garg\*, Goutham Ramakrishnan\**  
@@ -36,7 +35,6 @@ ___
 
 
 ## Workshop Papers
-___
 
 **Towards Robustness to Label Noise in Text Classification via Noise Modeling**     
 *Siddhant Garg\*, Goutham Ramakrishnan\*, Varun Thumbe\**  
@@ -47,7 +45,6 @@ ___
 
 
 ## Preprints
-___
 
 **Towards Compliant Data Management Systems for Healthcare ML**     
 *Goutham Ramakrishnan, Aditya Nori, Hannah Murfet, Pashmina Cameron*  
