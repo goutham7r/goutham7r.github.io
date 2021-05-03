@@ -4,7 +4,6 @@ title: ""
 permalink: /research/
 author_profile: true
 ---
-
 ## Conference Proceedings
 ___
 
