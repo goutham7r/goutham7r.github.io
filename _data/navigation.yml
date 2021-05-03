@@ -1,5 +1,8 @@
 # main links links
 main:
+  - title: "About"
+    url: /about/
+  
   - title: "Research"
     url: /research/
 
@@ -15,8 +18,8 @@ main:
 #   - title: "Blog Posts"
 #     url: /year-archive/
     
-  - title: "Resume"
-    url: "/files/Goutham-Ramakrishnan-Resume.pdf"
+#   - title: "Resume"
+#     url: "/files/Goutham-Ramakrishnan-Resume.pdf"
     
 #   - title: "Guide"
 #     url: /markdown/
