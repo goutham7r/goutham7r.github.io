@@ -2,7 +2,6 @@
 permalink: /
 title: "Homepage"
 author_profile: true
-redirect_from: 
 ---
 Hi! 
 I am a Machine Learning Software Engineer at [Health[at]Scale](https://healthatscale.com/){:target="_blank"}.  
