@@ -9,6 +9,7 @@ author_profile: true
 *Goutham Ramakrishnan*, Aws Albarghouthi  
 <span style="color:forestgreen">
     26th International Conference on Pattern Recognition <b>(ICPR 2022)</b>  
+    (Also presented at the NLP4Prog Workshop at ACL-IJCNLP 2021)  
 </span>
 [arXiv](https://arxiv.org/abs/2006.06841){:target="_blank"} &nbsp; &nbsp; [Code](https://github.com/goutham7r/backdoors-for-code){:target="_blank"}
 
@@ -23,6 +24,7 @@ author_profile: true
 Siddhant Garg\*, *Goutham Ramakrishnan\**, Varun Thumbe\*  
 <span style="color:forestgreen">
     30th International Conference on Information and Knowledge Management <b> (CIKM 2021) </b>  
+    (Also presented at the RobustML Workshop and S2D-OLAD Workshop at ICLR 2021)  
 </span>
 [Paper (ACM)](https://dl.acm.org/doi/abs/10.1145/3459637.3482204){:target="_blank"} &nbsp; &nbsp; [arXiv](https://arxiv.org/abs/2101.11214){:target="_blank"} &nbsp; &nbsp; [Code](https://github.com/thumbe3/label-noise-nlp){:target="_blank"}
 
