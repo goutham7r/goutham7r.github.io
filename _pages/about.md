@@ -4,7 +4,7 @@ title: "Homepage"
 author_profile: true
 ---
 Hi! 
-I am a Machine Learning Software Engineer at [Health[at]Scale](https://healthatscale.com/){:target="_blank"}.  
+I am a Senior Machine Learning Software Engineer at [Health[at]Scale](https://healthatscale.com/){:target="_blank"}.  
 
 My general research interests are in the domain of machine learning. 
 Over the years, I have explored various areas including interpretable ML, adversarial ML, natural language processing and computer vision, with a track record of publishing in top-tier venues such as AAAI and EMNLP. 
@@ -15,4 +15,4 @@ Prior to that in 2018, I graduated with a B.Tech. in Electrical Engineering (wit
 
 In Summer 2019, I was a Researcher Intern at [Microsoft Research-Cambridge(UK)](https://www.microsoft.com/en-us/research/lab/microsoft-research-cambridge/){:target="_blank"}, where I worked on improving data compliance in healthcare projects. Earlier during my undergraduate years, I interned as a data analyst at American Express in Gurugram (India). 
 
-You can find my resume [here](/files/Goutham-Ramakrishnan-Resume.pdf){:target="_blank"} (Last Updated: April 2021). 
+You can find my resume [here](/files/Goutham-Ramakrishnan-Resume.pdf){:target="_blank"} (Last Updated: June 2022). 
