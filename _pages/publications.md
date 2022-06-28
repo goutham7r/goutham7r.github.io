@@ -15,15 +15,14 @@ author_profile: true
 **Semantic Robustness of Models of Source Code**      
 *Goutham Ramakrishnan\**, Jordan Henkel\*, Zi Wang, Aws Albarghouthi, Somesh Jha, Thomas Reps  
 <span style="color:forestgreen">
-    29th IEEE International Conference on Software Analysis, Evolution and Reengineering <b>(SANER 2022)</b>  
+    29th International Conference on Software Analysis, Evolution and Reengineering <b>(SANER 2022)</b>  
 </span>
 [arXiv](https://arxiv.org/abs/2002.03043){:target="_blank"} &nbsp; &nbsp; [Code](https://github.com/jjhenkel/averloc){:target="_blank"}
 
 **Towards Robustness to Label Noise in Text Classification via Noise Modeling**     
 Siddhant Garg\*, *Goutham Ramakrishnan\**, Varun Thumbe\*  
 <span style="color:forestgreen">
-    30th ACM International Conference on Information and Knowledge Management <b> (CIKM 2021) </b>  
-    RobustML and S2D-OLAD Workshops at the Ninth International Conference on Learning Representations (ICLR 2021)  
+    30th International Conference on Information and Knowledge Management <b> (CIKM 2021) </b>  
 </span>
 [Paper (ACM)](https://dl.acm.org/doi/abs/10.1145/3459637.3482204){:target="_blank"} &nbsp; &nbsp; [arXiv](https://arxiv.org/abs/2101.11214){:target="_blank"} &nbsp; &nbsp; [Code](https://github.com/thumbe3/label-noise-nlp){:target="_blank"}
 
