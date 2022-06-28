@@ -15,7 +15,7 @@ author_profile: true
 **Semantic Robustness of Models of Source Code**      
 *Goutham Ramakrishnan\**, Jordan Henkel\*, Zi Wang, Aws Albarghouthi, Somesh Jha, Thomas Reps  
 <span style="color:forestgreen">
-    29th International Conference on Software Analysis, Evolution and Reengineering <b>(SANER 2022)</b>  
+    29th Conference on Software Analysis, Evolution and Reengineering <b>(SANER 2022)</b>  
 </span>
 [arXiv](https://arxiv.org/abs/2002.03043){:target="_blank"} &nbsp; &nbsp; [Code](https://github.com/jjhenkel/averloc){:target="_blank"}
 
