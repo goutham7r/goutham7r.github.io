@@ -18,8 +18,8 @@ main:
 #   - title: "Blog Posts"
 #     url: /year-archive/
     
-#   - title: "Resume"
-#     url: "/files/Goutham-Ramakrishnan-Resume.pdf"
+  - title: "Resume"
+    url: "/files/Goutham-Ramakrishnan-Resume.pdf"
     
 #   - title: "Guide"
 #     url: /markdown/
