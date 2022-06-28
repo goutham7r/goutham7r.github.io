@@ -13,7 +13,7 @@ author_profile: true
 [arXiv](https://arxiv.org/abs/2006.06841){:target="_blank"} &nbsp; &nbsp; [Code](https://github.com/goutham7r/backdoors-for-code){:target="_blank"}
 
 **Semantic Robustness of Models of Source Code**      
-*Goutham Ramakrishnan\**, Jordan Henkel\*, Zi Wang, Aws Albarghouthi, Somesh Jha, Thomas Reps  
+*G Ramakrishnan\**, J Henkel\*, Z Wang, A Albarghouthi, S Jha, T Reps  
 <span style="color:forestgreen">
     29th Conference on Software Analysis, Evolution and Reengineering <b>(SANER 2022)</b>  
 </span>
