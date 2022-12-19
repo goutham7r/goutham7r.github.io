@@ -11,7 +11,7 @@ author_profile: true
     26th International Conference on Pattern Recognition <b>(ICPR 2022)</b>  
     (Also presented at the NLP4Prog Workshop at ACL-IJCNLP 2021)  
 </span>
-[arXiv](https://arxiv.org/abs/2006.06841){:target="_blank"} &nbsp; &nbsp; [Code](https://github.com/goutham7r/backdoors-for-code){:target="_blank"}
+[Paper (IEEE)](https://ieeexplore.ieee.org/document/9956690){:target="_blank"} &nbsp; &nbsp; [arXiv](https://arxiv.org/abs/2006.06841){:target="_blank"} &nbsp; &nbsp; [Code](https://github.com/goutham7r/backdoors-for-code){:target="_blank"}
 
 **Semantic Robustness of Models of Source Code**      
 J Henkel\*, *G Ramakrishnan\**, Z Wang, A Albarghouthi, S Jha, T Reps  
