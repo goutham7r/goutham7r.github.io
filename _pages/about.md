@@ -7,7 +7,7 @@ Hi!
 I am a Senior Machine Learning Software Engineer at [Health[at]Scale](https://healthatscale.com/){:target="_blank"}.  
 
 My general research interests are in the domain of machine learning. 
-Over the years, I have explored various areas including interpretable ML, adversarial ML, natural language processing and computer vision, with a track record of publishing in top-tier venues such as AAAI and EMNLP. 
+Over the years, I have explored various areas including interpretable ML, adversarial ML, natural language processing and computer vision, with a track record of publishing in prestigious venues such as AAAI, EMNLP and IEEE conferences. 
 My complete research works can be found [here](/research).
 
 In 2020, I completed my M.S. in Computer Sciences at the [University of Wisconsin-Madison](https://www.cs.wisc.edu){:target="_blank"}. At UW-Madison, I worked as a Graduate Research Assistant under Prof. [Aws Albarghouthi](http://pages.cs.wisc.edu/~aws/){:target="_blank"}. 
