@@ -4,7 +4,11 @@ title: "Homepage"
 author_profile: true
 ---
 Hi! 
-I am a Senior Machine Learning Software Engineer at [Health[at]Scale](https://healthatscale.com/){:target="_blank"}.  
+I am Machine Learning Engineer - II at Annapurna Labs (a subsidiary of [Amazon Web Services](https://aws.amazon.com/){:target="_blank"}).  
+At [AWS Neuron](https://aws.amazon.com/machine-learning/neuron/){:target="_blank"}, I work on enabling distributed training and inference for large language models on the Trainium and Inferentia ML accelerators. 
+
+Earlier, I spent three great years building healthcare AI tech at [Health[at]Scale](https://healthatscale.com/){:target="_blank"}.  
+As a Senior Machine Learning Software Engineer, I helped create a new product for providing actionable clinical insights to high-risk patients, launch  multiple new apps from the ground-up, and develop ML model prototypes for novel problems in the healthcare space.  
 
 My general research interests are in the domain of machine learning. 
 Over the years, I have explored various areas including interpretable ML, adversarial ML, natural language processing and computer vision, with a track record of publishing in prestigious venues such as AAAI, EMNLP and IEEE conferences. 
@@ -15,4 +19,4 @@ Prior to that in 2018, I graduated with a B.Tech. in Electrical Engineering (wit
 
 In Summer 2019, I was a Researcher Intern at [Microsoft Research-Cambridge(UK)](https://www.microsoft.com/en-us/research/lab/microsoft-research-cambridge/){:target="_blank"}, where I worked on improving data compliance in healthcare projects. Earlier during my undergraduate years, I interned as a data analyst at American Express in Gurugram (India). 
 
-You can find my resume [here](/files/Goutham-Ramakrishnan-Resume.pdf){:target="_blank"} (Last Updated: Dec 2022). 
+You can find my resume [here](/files/Goutham-Ramakrishnan-Resume.pdf){:target="_blank"} (Last Updated: Dec 2023). 
